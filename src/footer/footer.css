@@ -1,0 +1,30 @@
+
+.kcolorf {
+    color: white;
+  }
+  
+.titlef {
+    color: blue;
+}
+p{
+    color: white;
+}
+.itemf{
+    background-color: blue;
+    color: white;
+    padding: 12px;
+    transform: skew(-8deg);
+    margin: 2px;
+}
+.call{
+    background-color: blue;
+    color: white;
+    padding: 15px;
+}
+.iconfoo{
+    display: flex;
+    padding: 5px;
+}
+.iconfoo h4{
+   color: white;
+}

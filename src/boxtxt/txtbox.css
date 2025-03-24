@@ -1,0 +1,28 @@
+
+.title h5{
+    color:cadetblue;
+
+}
+.title h2{
+    color: white;
+}
+.title{
+   margin: 50px;
+   text-align: center;
+}
+.row{
+    margin: 100px 0px 0px 0px;
+}
+.box1{
+    padding: 20px;
+}
+.box1 h2{
+    color:cadetblue;
+}
+.box1 h5{
+    color: white;
+}
+p{
+    color: rgb(99, 98, 98);
+    text-align: justify;
+}
